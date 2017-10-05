@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="jarak16dp">16dp</dimen>
+    <dimen name="jarak40dp">40dp</dimen>
+    <dimen name="height_edit_text">45dp</dimen>
+    <dimen name="padding_edit_text">10dp</dimen>
+    <dimen name="ukuran_gambar">200dp</dimen>
+    <dimen name="textsize20sp">20sp</dimen>
+</resources>
